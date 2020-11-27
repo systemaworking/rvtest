@@ -1,0 +1,2 @@
+REVIEWBOARD_URL = 'http://reviews.example.com'
+REPOSITORY = 'github'
